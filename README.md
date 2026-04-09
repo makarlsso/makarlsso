@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 Hi, I’m Magnus. I solve problems by wearing many hats—from C-suite strategy to systems-level code. 30 years in the evolution of software has taught me that the best systems live where business intent meets technical precision. Currently, I’m favoring the safety of Rust and Zig over the latencies of the JVM.
 
